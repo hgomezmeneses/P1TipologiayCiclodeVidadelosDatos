@@ -18,7 +18,7 @@ El primer script recopila información de los mejores 500 álbumes de música se
 - Nombre de la banda
 - Año de grabación
 
-El segundo script recopila la imagen de la portada de cada álbum.
+El segundo script descarga y almacena la imagen de la portada de cada álbum.
 
 # Miembros del equipo
 
