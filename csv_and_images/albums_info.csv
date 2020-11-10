@@ -1,0 +1,501 @@
+,Position,Score,Album,Band,Release Year
+0,1,92,OK Computer,Radiohead,1997
+1,2,92,The Dark Side Of The Moon,Pink Floyd,1973
+2,3,92,Abbey Road,The Beatles,1969
+3,4,91,Revolver,The Beatles,1966
+4,5,91,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,1967
+5,6,89,Kid A,Radiohead,2000
+6,7,89,In Rainbows,Radiohead,2007
+7,8,91,Wish You Were Here,Pink Floyd,1975
+8,9,90,The Rise And Fall Of Ziggy Stardust And The Spiders From Mars,David Bowie,1972
+9,10,89,The Velvet Underground & Nico,The Velvet Underground & Nico,1967
+10,11,88,Funeral,Arcade Fire,2004
+11,12,90,Untitled (Led Zeppelin IV),Led Zeppelin,1971
+12,13,88,Pet Sounds,The Beach Boys,1966
+13,14,88,In The Aeroplane Over The Sea,Neutral Milk Hotel,1998
+14,15,89,The Beatles (The White Album),The Beatles,1968
+15,16,87,Nevermind,Nirvana,1991
+16,17,88,Doolittle,Pixies,1989
+17,18,87,London Calling,The Clash,1979
+18,19,88,The Queen Is Dead,The Smiths,1986
+19,20,87,The Bends,Radiohead,1995
+20,21,86,Is This It,The Strokes,2001
+21,22,86,Loveless,My Bloody Valentine,1991
+22,23,89,Highway 61 Revisited,Bob Dylan,1965
+23,24,90,To Pimp A Butterfly,Kendrick Lamar,2015
+24,25,86,The Wall,Pink Floyd,1979
+25,26,88,Rubber Soul,The Beatles,1965
+26,27,86,Rumours,Fleetwood Mac,1977
+27,28,89,In The Court Of The Crimson King,King Crimson,1969
+28,29,87,The Doors,The Doors,1967
+29,30,87,Remain In Light,Talking Heads,1980
+30,31,88,Blonde On Blonde,Bob Dylan,1966
+31,32,86,The Stone Roses,The Stone Roses,1989
+32,33,87,Unknown Pleasures,Joy Division,1979
+33,34,85,My Beautiful Dark Twisted Fantasy,Kanye West,2010
+34,35,86,Disintegration,The Cure,1989
+35,36,86,Who's Next,The Who,1971
+36,37,87,Are You Experienced,The Jimi Hendrix Experience,1967
+37,38,85,The Suburbs,Arcade Fire,2010
+38,39,89,Kind Of Blue,Miles Davis,1959
+39,40,88,"Good Kid, M.A.A.D City",Kendrick Lamar,2012
+40,41,88,Animals,Pink Floyd,1977
+41,42,86,Exile On Main St.,The Rolling Stones,1972
+42,43,87,Blood On The Tracks,Bob Dylan,1975
+43,44,87,Led Zeppelin II,Led Zeppelin,1969
+44,45,86,Illinois,Sufjan Stevens,2005
+45,46,85,Yankee Hotel Foxtrot,Wilco,2002
+46,47,87,Hunky Dory,David Bowie,1971
+47,48,86,Marquee Moon,Television,1977
+48,49,82,Ten,Pearl Jam,1991
+49,50,83,The Joshua Tree,U2,1987
+50,51,83,"Whatever People Say I Am, That's What I'm Not",Arctic Monkeys,2006
+51,52,87,Pink Moon,Nick Drake,1972
+52,53,85,Siamese Dream,The Smashing Pumpkins,1993
+53,54,81,(What's The Story) Morning Glory?,Oasis,1995
+54,55,86,Low,David Bowie,1977
+55,56,84,Automatic For The People,R.E.M.,1992
+56,57,84,In Utero,Nirvana,1993
+57,58,86,Led Zeppelin,Led Zeppelin,1969
+58,59,85,Astral Weeks,Van Morrison,1968
+59,60,84,Grace,Jeff Buckley,1994
+60,61,86,Let It Bleed,The Rolling Stones,1969
+61,62,83,Born To Run,Bruce Springsteen,1975
+62,63,86,Sticky Fingers,The Rolling Stones,1971
+63,64,85,Lonerism,Tame Impala,2012
+64,65,86,Ágætis Byrjun,Sigur Rós,1999
+65,66,84,Daydream Nation,Sonic Youth,1988
+66,67,86,Paranoid,Black Sabbath,1970
+67,68,85,What's Going On,Marvin Gaye,1971
+68,69,84,Weezer (The Blue Album),Weezer,1994
+69,70,86,Closer,Joy Division,1980
+70,71,86,Illmatic,Nas,1994
+71,72,85,Forever Changes,Love,1967
+72,73,86,Electric Ladyland,The Jimi Hendrix Experience,1968
+73,74,86,After The Gold Rush,Neil Young,1970
+74,75,85,Hounds Of Love,Kate Bush,1985
+75,76,86,Carrie & Lowell,Sufjan Stevens,2015
+76,77,87,A Love Supreme,John Coltrane,1965
+77,78,84,Dummy,Portishead,1994
+78,79,83,Mellon Collie And The Infinite Sadness,The Smashing Pumpkins,1995
+79,80,82,Thriller,Michael Jackson,1982
+80,81,87,A Moon Shaped Pool,Radiohead,2016
+81,82,84,Blue,Joni Mitchell,1971
+82,83,86,Magical Mystery Tour,The Beatles,1967
+83,84,84,Turn On The Bright Lights,Interpol,2002
+84,85,86,Lift Yr. Skinny Fists Like Antennas To Heaven,Godspeed You! Black Emperor,2000
+85,86,83,Purple Rain,Prince And The Revolution,1984
+86,87,84,Spiderland,Slint,1991
+87,88,83,"For Emma, Forever Ago",Bon Iver,2007
+88,89,86,Madvillainy,Madvillain,2004
+89,90,79,A Rush Of Blood To The Head,Coldplay,2002
+90,91,85,Surfer Rosa,Pixies,1988
+91,92,84,Sound Of Silver,LCD Soundsystem,2007
+92,93,83,A Night At The Opera,Queen,1975
+93,94,85,Odessey And Oracle,The Zombies,1968
+94,95,83,Elephant,The White Stripes,2003
+95,96,86,The Velvet Underground,The Velvet Underground,1969
+96,97,85,Close To The Edge,Yes,1972
+97,98,84,Rain Dogs,Tom Waits,1985
+98,99,85,Houses Of The Holy,Led Zeppelin,1973
+99,100,85,Harvest,Neil Young,1972
+100,101,84,Pinkerton,Weezer,1996
+101,102,86,Bringing It All Back Home,Bob Dylan,1965
+102,103,83,The Soft Bulletin,The Flaming Lips,1999
+103,104,83,Yoshimi Battles The Pink Robots,The Flaming Lips,2002
+104,105,78,Appetite For Destruction,Guns N' Roses,1987
+105,106,84,Homogenic,Björk,1997
+106,107,83,Master Of Puppets,Metallica,1986
+107,108,83,Amnesiac,Radiohead,2001
+108,109,82,Merriweather Post Pavilion,Animal Collective,2009
+109,110,87,The Black Saint And The Sinner Lady,Charles Mingus,1963
+110,111,84,Physical Graffiti,Led Zeppelin,1975
+111,112,80,"Never Mind The Bollocks, Here's The Sex Pistols",Sex Pistols,1977
+112,113,80,Achtung Baby,U2,1991
+113,114,85,Innervisions,Stevie Wonder,1973
+114,115,80,Definitely Maybe,Oasis,1994
+115,116,84,Bridge Over Troubled Water,Simon & Garfunkel,1970
+116,117,84,Enter The Wu-Tang (36 Chambers),Wu-Tang Clan,1993
+117,118,82,Rage Against The Machine,Rage Against The Machine,1992
+118,119,83,If You're Feeling Sinister,Belle And Sebastian,1996
+119,120,84,Blonde,Frank Ocean,2016
+120,121,82,Modern Vampires Of The City,Vampire Weekend,2013
+121,122,81,Demon Days,Gorillaz,2005
+122,123,85,Songs In The Key Of Life,Stevie Wonder,1976
+123,124,83,Transformer,Lou Reed,1972
+124,125,83,Fleet Foxes,Fleet Foxes,2008
+125,126,85,Souvlaki,Slowdive,1993
+126,127,82,High Violet,The National,2010
+127,128,83,Violator,Depeche Mode,1990
+128,129,83,Songs For The Deaf,Queens Of The Stone Age,2002
+129,130,85,Station To Station,David Bowie,1976
+130,131,84,The Moon & Antarctica,Modest Mouse,2000
+131,132,81,Graceland,Paul Simon,1986
+132,133,80,Back In Black,AC/DC,1980
+133,134,84,Either/Or,Elliott Smith,1997
+134,135,82,Neon Bible,Arcade Fire,2007
+135,136,86,★ (Blackstar),David Bowie,2016
+136,137,84,All Things Must Pass,George Harrison,1970
+137,138,84,Selling England By The Pound,Genesis,1973
+138,139,84,Endtroducing.....,DJ Shadow,1996
+139,140,83,Boxer,The National,2007
+140,141,84,White Light/White Heat,The Velvet Underground,1968
+141,142,83,Teen Dream,Beach House,2010
+142,143,83,Murmur,R.E.M.,1983
+143,144,83,The Downward Spiral,Nine Inch Nails,1994
+144,145,84,Spirit Of Eden,Talk Talk,1988
+145,146,82,Discovery,Daft Punk,2001
+146,147,84,Tago Mago,Can,1971
+147,148,84,Meddle,Pink Floyd,1971
+148,149,84,John Lennon/Plastic Ono Band,John Lennon,1970
+149,150,86,MTV Unplugged In New York,Nirvana,1994
+150,151,74,American Idiot,Green Day,2004
+151,152,83,Mezzanine,Massive Attack,1998
+152,153,82,Moving Pictures,Rush,1981
+153,154,85,The Low End Theory,A Tribe Called Quest,1991
+154,155,82,Channel Orange,Frank Ocean,2012
+155,156,85,Songs Of Leonard Cohen,Leonard Cohen,1967
+156,157,84,Beggars Banquet,The Rolling Stones,1968
+157,158,85,Bitches Brew,Miles Davis,1970
+158,159,82,The Piper At The Gates Of Dawn,Pink Floyd,1967
+159,160,84,Quadrophenia,The Who,1973
+160,161,79,Blood Sugar Sex Magik,Red Hot Chili Peppers,1991
+161,162,81,Currents,Tame Impala,2015
+162,163,82,Hail To The Thief,Radiohead,2003
+163,164,84,The Kinks Are The Village Green Preservation Society,The Kinks,1968
+164,165,86,Red,King Crimson,1974
+165,166,80,Bon Iver,Bon Iver,2011
+166,167,84,Laughing Stock,Talk Talk,1991
+167,168,82,Helplessness Blues,Fleet Foxes,2011
+168,169,82,Lost In The Dream,The War On Drugs,2014
+169,170,81,Lateralus,Tool,2001
+170,171,83,Moondance,Van Morrison,1970
+171,172,84,Led Zeppelin III,Led Zeppelin,1970
+172,173,85,Five Leaves Left,Nick Drake,1969
+173,174,84,Another Green World,Brian Eno,1975
+174,175,79,Absolution,Muse,2003
+175,176,77,Hot Fuss,The Killers,2004
+176,177,83,"Crooked Rain, Crooked Rain",Pavement,1994
+177,178,84,The Lonesome Crowded West,Modest Mouse,1997
+178,179,79,Origin Of Symmetry,Muse,2001
+179,180,84,The Glow Pt. 2,The Microphones,2001
+180,181,84,The Freewheelin' Bob Dylan,Bob Dylan,1963
+181,182,82,Ys,Joanna Newsom,2006
+182,183,82,Horses,Patti Smith,1975
+183,184,82,Darkness On The Edge Of Town,Bruce Springsteen,1978
+184,185,82,Since I Left You,The Avalanches,2000
+185,186,82,The College Dropout,Kanye West,2004
+186,187,82,This Is Happening,LCD Soundsystem,2010
+187,188,83,The Smiths,The Smiths,1984
+188,189,82,Different Class,Pulp,1995
+189,190,79,Californication,Red Hot Chili Peppers,1999
+190,191,83,Ride The Lightning,Metallica,1984
+191,192,78,Born In The U.S.A.,Bruce Springsteen,1984
+192,193,82,Violent Femmes,Violent Femmes,1983
+193,194,79,Reflektor,Arcade Fire,2013
+194,195,77,AM,Arctic Monkeys,2013
+195,196,79,Dookie,Green Day,1994
+196,197,83,L.A. Woman,The Doors,1971
+197,198,81,Superunknown,Soundgarden,1994
+198,199,80,Parklife,Blur,1994
+199,200,84,Fun House,The Stooges,1970
+200,201,84,On The Beach,Neil Young,1974
+201,202,78,Parachutes,Coldplay,2000
+202,203,82,Slanted And Enchanted,Pavement,1992
+203,204,82,Paul's Boutique,Beastie Boys,1989
+204,205,83,Hot Rats,Frank Zappa,1969
+205,206,83,The Lamb Lies Down On Broadway,Genesis,1974
+206,207,81,Vampire Weekend,Vampire Weekend,2008
+207,208,82,Bloom,Beach House,2012
+208,209,80,Ramones,Ramones,1976
+209,210,83,...Like Clockwork,Queens Of The Stone Age,2013
+210,211,75,Trout Mask Replica,Captain Beefheart & His Magic Band,1969
+211,212,77,Yeezus,Kanye West,2013
+212,213,82,The Money Store,Death Grips,2012
+213,214,83,Aja,Steely Dan,1977
+214,215,81,Sign 'O' The Times,Prince,1987
+215,216,81,Tommy,The Who,1969
+216,217,83,Vespertine,Björk,2001
+217,218,83,Teens Of Denial,Car Seat Headrest,2016
+218,219,85,Cosmo's Factory,Creedence Clearwater Revival,1970
+219,220,84,Everybody Knows This Is Nowhere,Neil Young With Crazy Horse,1969
+220,221,78,An Awesome Wave,alt-J,2012
+221,222,82,Hospice,The Antlers,2009
+222,223,82,Dirt,Alice In Chains,1992
+223,224,78,Metallica,Metallica,1991
+224,225,79,Random Access Memories,Daft Punk,2013
+225,226,81,Odelay,Beck,1996
+226,227,84,Selected Ambient Works 85-92,Aphex Twin,1992
+227,228,86,In A Silent Way,Miles Davis,1969
+228,229,78,Black Holes And Revelations,Muse,2006
+229,230,83,Ladies And Gentlemen We Are Floating In Space,Spiritualized,1997
+230,231,82,Ænima,Tool,1996
+231,232,78,Brothers In Arms,Dire Straits,1985
+232,233,83,Heaven Or Las Vegas,Cocteau Twins,1990
+233,234,79,Back To Black,Amy Winehouse,2006
+234,235,81,Layla And Other Assorted Love Songs,Derek & The Dominos,1970
+235,236,81,Goodbye Yellow Brick Road,Elton John,1973
+236,237,81,Help!,The Beatles,1965
+237,238,82,The Band,The Band,1969
+238,239,80,Favourite Worst Nightmare,Arctic Monkeys,2007
+239,240,80,Let It Be,The Beatles,1970
+240,241,82,Let It Be,The Replacements,1984
+241,242,80,It Takes A Nation Of Millions To Hold Us Back,Public Enemy,1988
+242,243,82,Meat Is Murder,The Smiths,1985
+243,244,83,Axis: Bold As Love,The Jimi Hendrix Experience,1967
+244,245,78,The Marshall Mathers LP,Eminem,2000
+245,246,83,Loaded,The Velvet Underground,1970
+246,247,81,A Hard Day's Night,The Beatles,1964
+247,248,82,The Clash,The Clash,1977
+248,249,81,Moon Safari,Air (FR),1998
+249,250,82,Halcyon Digest,Deerhunter,2010
+250,251,83,"""Heroes""",David Bowie,1977
+251,252,83,Late Registration,Kanye West,2005
+252,253,85,Mingus Ah Um,Charles Mingus,1959
+253,254,84,F♯A♯∞,Godspeed You! Black Emperor,1997
+254,255,82,Strange Days,The Doors,1967
+255,256,84,Fragile,Yes,1971
+256,257,82,To Be Kind,Swans,2014
+257,258,76,Hotel California,Eagles,1976
+258,259,81,The Stranger,Billy Joel,1977
+259,260,81,"Strangeways, Here We Come",The Smiths,1987
+260,261,81,Tapestry,Carole King,1971
+261,262,81,Disraeli Gears,Cream,1967
+262,263,82,"Power, Corruption & Lies",New Order,1983
+263,264,84,Bryter Layter,Nick Drake,1971
+264,265,79,Plastic Beach,Gorillaz,2010
+265,266,83,Thick As A Brick,Jethro Tull,1972
+266,267,75,Viva La Vida Or Death And All His Friends,Coldplay,2008
+267,268,82,Machine Head,Deep Purple,1972
+268,269,85,Hatful Of Hollow,The Smiths,1984
+269,270,86,The Smile Sessions,The Beach Boys,2011
+270,271,83,You Forgot It In People,Broken Social Scene,2002
+271,272,80,So,Peter Gabriel,1986
+272,273,81,"I Love You, Honeybear",Father John Misty,2015
+273,274,82,Post,Björk,1995
+274,275,82,Crime Of The Century,Supertramp,1974
+275,276,79,Room On Fire,The Strokes,2003
+276,277,83,Raw Power,Iggy And The Stooges,1973
+277,278,82,Band On The Run,Paul McCartney & Wings,1973
+278,279,84,Fear Of Music,Talking Heads,1979
+279,280,80,The Number Of The Beast,Iron Maiden,1982
+280,281,79,Trouble Will Find Me,The National,2013
+281,282,83,Trans-Europa Express,Kraftwerk,1977
+282,283,77,Urban Hymns,The Verve,1997
+283,284,81,Ready To Die,The Notorious B.I.G.,1994
+284,285,78,xx,The xx,2009
+285,286,83,Black Sabbath,Black Sabbath,1970
+286,287,81,White Blood Cells,The White Stripes,2001
+287,288,84,Time Out,The Dave Brubeck Quartet,1959
+288,289,83,You're Living All Over Me,Dinosaur Jr.,1987
+289,290,80,Vs.,Pearl Jam,1993
+290,291,79,Oracular Spectacular,MGMT,2007
+291,292,81,Parallel Lines,Blondie,1978
+292,293,81,Music From Big Pink,The Band,1968
+293,294,80,Psychocandy,The Jesus And Mary Chain,1985
+294,295,81,The Cars,The Cars,1978
+295,296,80,Damn.,Kendrick Lamar,2017
+296,297,82,Exodus,Bob Marley & The Wailers,1977
+297,298,82,Music Has The Right To Children,Boards Of Canada,1998
+298,299,83,Aquemini,OutKast,1998
+299,300,80,Screamadelica,Primal Scream,1991
+300,301,81,This Year's Model,Elvis Costello,1978
+301,302,80,Let England Shake,PJ Harvey,2011
+302,303,83,Déjà Vu,"Crosby, Stills, Nash & Young",1970
+303,304,84,Ege Bamyası,Can,1972
+304,305,84,Perfect From Now On,Built To Spill,1997
+305,306,83,Foxtrot,Genesis,1972
+306,307,78,Toxicity,System Of A Down,2001
+307,308,80,The Age Of Adz,Sufjan Stevens,2010
+308,309,80,American Beauty,Grateful Dead,1970
+309,310,80,Sea Change,Beck,2002
+310,311,83,Aladdin Sane,David Bowie,1973
+311,312,80,Nebraska,Bruce Springsteen,1982
+312,313,79,Brothers,The Black Keys,2010
+313,314,78,Boston,Boston,1976
+314,315,84,Liquid Swords,GZA,1995
+315,316,83,At Folsom Prison,Johnny Cash,1968
+316,317,81,The Idler Wheel Is Wiser Than The Driver Of The Screw And Whipping Cords Will Serve You More Than Ropes Will Ever Do,Fiona Apple,2012
+317,318,81,The Dreaming,Kate Bush,1982
+318,319,82,Pink Flag,Wire,1977
+319,320,83,Master Of Reality,Black Sabbath,1971
+320,321,81,Double Nickels On The Dime,Minutemen,1984
+321,322,81,Strawberry Jam,Animal Collective,2007
+322,323,83,Electric Warrior,T. Rex,1971
+323,324,81,Imagine,John Lennon,1971
+324,325,76,The King Of Limbs,Radiohead,2011
+325,326,83,Atrocity Exhibition,Danny Brown,2016
+326,327,77,Silent Alarm,Bloc Party,2005
+327,328,82,Takk...,Sigur Rós,2005
+328,329,79,The Colour And The Shape,Foo Fighters,1997
+329,330,86,Long Season,フィッシュマンズ [Fishmans],1996
+330,331,81,Surrealistic Pillow,Jefferson Airplane,1967
+331,332,79,War,U2,1983
+332,333,80,Blue Lines,Massive Attack,1991
+333,334,81,Bookends,Simon & Garfunkel,1968
+334,335,81,Chutes Too Narrow,The Shins,2003
+335,336,81,Fresh Fruit For Rotting Vegetables,Dead Kennedys,1980
+336,337,83,Aqualung,Jethro Tull,1971
+337,338,80,Debut,Björk,1993
+338,339,80,Pornography,The Cure,1982
+339,340,81,Entertainment!,Gang Of Four,1979
+340,341,79,Synchronicity,The Police,1983
+341,342,80,Benji,Sun Kil Moon,2014
+342,343,81,The Devil And God Are Raging Inside Me,Brand New,2006
+343,344,77,Jagged Little Pill,Alanis Morissette,1995
+344,345,81,Innerspeaker,Tame Impala,2010
+345,346,82,( ),Sigur Rós,2002
+346,347,84,Blue Train,John Coltrane,1957
+347,348,82,Untrue,Burial,2007
+348,349,80,13,Blur,1999
+349,350,80,Days Of Future Passed,The Moody Blues,1967
+350,351,80,Good News For People Who Love Bad News,Modest Mouse,2004
+351,352,81,Melodrama,Lorde,2017
+352,353,79,Transatlanticism,Death Cab For Cutie,2003
+353,354,78,El Camino,The Black Keys,2011
+354,355,81,Third,Portishead,2008
+355,356,81,The Boatman's Call,Nick Cave & The Bad Seeds,1997
+356,357,80,Veckatimest,Grizzly Bear,2009
+357,358,82,Emergency & I,The Dismemberment Plan,1999
+358,359,81,"Stories From The City, Stories From The Sea",PJ Harvey,2000
+359,360,79,...And Justice For All,Metallica,1988
+360,361,81,2112,Rush,1976
+361,362,79,Off The Wall,Michael Jackson,1979
+362,363,84,Flower Boy,"Tyler, The Creator",2017
+363,364,81,Nowhere,Ride,1990
+364,365,82,At Fillmore East,The Allman Brothers Band,1971
+365,366,82,Twin Fantasy (Face To Face),Car Seat Headrest,2018
+366,367,80,Stankonia,OutKast,2000
+367,368,82,On Fire,Galaxie 500,1989
+368,369,80,Van Halen,Van Halen,1978
+369,370,72,The Black Parade,My Chemical Romance,2006
+370,371,78,"I'm Wide Awake, It's Morning",Bright Eyes,2005
+371,372,84,Future Days,Can,1973
+372,373,81,Have One On Me,Joanna Newsom,2010
+373,374,81,Scary Monsters (And Super Creeps),David Bowie,1980
+374,375,84,Legend,Bob Marley & The Wailers,1984
+375,376,82,Swordfishtrombones,Tom Waits,1983
+376,377,81,Person Pitch,Panda Bear,2007
+377,378,83,Otis Blue / Otis Redding Sings Soul,Otis Redding,1965
+378,379,89,98.12.28 男達の別れ [98.12.28 Otokotachi No Wakare],フィッシュマンズ [Fishmans],1999
+379,380,82,Run The Jewels 2,Run The Jewels,2014
+380,381,81,Skylarking,XTC,1986
+381,382,82,There's A Riot Goin' On,Sly & The Family Stone,1971
+382,383,82,Ram,Paul & Linda McCartney,1971
+383,384,79,The River,Bruce Springsteen,1980
+384,385,83,Die Mensch·Maschine [The Man-Machine],Kraftwerk,1978
+385,386,77,Contra,Vampire Weekend,2010
+386,387,76,By The Way,Red Hot Chili Peppers,2002
+387,388,83,The Modern Lovers,The Modern Lovers,1976
+388,389,81,Document,R.E.M.,1987
+389,390,80,Alligator,The National,2005
+390,391,81,The Seer,Swans,2012
+391,392,84,Rust Never Sleeps,Neil Young & Crazy Horse,1979
+392,393,78,Franz Ferdinand,Franz Ferdinand,2004
+393,394,81,69 Love Songs,The Magnetic Fields,1999
+394,395,83,Soundtracks For The Blind,Swans,1996
+395,396,83,Arthur (Or The Decline And Fall Of The British Empire),The Kinks,1969
+396,397,81,Breakfast In America,Supertramp,1979
+397,398,81,Desire,Bob Dylan,1976
+398,399,79,Highway To Hell,AC/DC,1979
+399,400,80,Speaking In Tongues,Talking Heads,1983
+400,401,79,Art Angels,Grimes,2015
+401,402,83,Maggot Brain,Funkadelic,1971
+402,403,82,Kids See Ghosts,Kids See Ghosts,2018
+403,404,82,Deathconsciousness,Have A Nice Life,2008
+404,405,83,Igor,"Tyler, The Creator",2019
+405,406,79,Give Up,The Postal Service,2003
+406,407,80,In The Wee Small Hours,Frank Sinatra,1955
+407,408,83,#1 Record,Big Star,1972
+408,409,80,(pronounced 'lĕh-'nérd 'skin-'nérd),Lynyrd Skynyrd,1973
+409,410,79,Wolfgang Amadeus Phoenix,Phoenix (FR),2009
+410,411,77,The Miseducation Of Lauryn Hill,Lauryn Hill,1998
+411,412,79,Rock Bottom,Robert Wyatt,1974
+412,413,80,Elvis Presley,Elvis Presley,1956
+413,414,81,My Aim Is True,Elvis Costello,1977
+414,415,78,The Holy Bible,Manic Street Preachers,1994
+415,416,82,Peter Gabriel III,Peter Gabriel,1980
+416,417,81,"Crosby, Stills & Nash","Crosby, Stills & Nash",1969
+417,418,81,The Head On The Door,The Cure,1985
+418,419,83,Getz/Gilberto,Stan Getz & João Gilberto,1964
+419,420,76,Bad,Michael Jackson,1987
+420,421,80,Rust In Peace,Megadeth,1990
+421,422,78,"22, A Million",Bon Iver,2016
+422,423,81,Donuts,J Dilla,2006
+423,424,83,Skeleton Tree,Nick Cave & The Bad Seeds,2016
+424,425,80,I Never Loved A Man The Way I Love You,Aretha Franklin,1967
+425,426,79,Zen Arcade,Hüsker Dü,1984
+426,427,79,Songs From The Big Chair,Tears For Fears,1985
+427,428,80,American Football,American Football,1999
+428,429,72,X&Y,Coldplay,2005
+429,430,82,Titanic Rising,Weyes Blood,2019
+430,431,77,Please Please Me,The Beatles,1963
+431,432,80,Salad Days,Mac DeMarco,2014
+432,433,70,Born To Die,Lana Del Rey,2012
+433,434,80,Bossanova,Pixies,1990
+434,435,79,Aftermath,The Rolling Stones,1966
+435,436,83,Songs Of Love And Hate,Leonard Cohen,1971
+436,437,80,The Stooges,The Stooges,1969
+437,438,82,I Can Hear The Heart Beating As One,Yo La Tengo,1997
+438,439,81,Freak Out!,The Mothers Of Invention,1966
+439,440,83,Midnight Marauders,A Tribe Called Quest,1993
+440,441,79,The Chronic,Dr. Dre,1992
+441,442,83,Summerteeth,Wilco,1999
+442,443,82,Keep It Like A Secret,Built To Spill,1999
+443,444,82,Something Else By The Kinks,The Kinks,1967
+444,445,82,The Shape Of Jazz To Come,Ornette Coleman,1959
+445,446,82,Norman Fucking Rockwell!,Lana Del Rey,2019
+446,447,82,The Yes Album,Yes,1971
+447,448,77,Graduation,Kanye West,2007
+448,449,80,Sounds Of Silence,Simon & Garfunkel,1966
+449,450,81,A Deeper Understanding,The War On Drugs,2017
+450,451,82,Treasure,Cocteau Twins,1984
+451,452,80,The ArchAndroid,Janelle Monáe,2010
+452,453,79,Feels,Animal Collective,2005
+453,454,81,Fear Of A Blank Planet,Porcupine Tree,2007
+454,455,83,The Mollusk,Ween,1997
+455,456,79,St. Vincent,St. Vincent,2014
+456,457,81,Isn't Anything,My Bloody Valentine,1988
+457,458,80,Goo,Sonic Youth,1990
+458,459,78,Sunbather,Deafheaven,2013
+459,460,81,XO,Elliott Smith,1998
+460,461,78,Tracy Chapman,Tracy Chapman,1988
+461,462,76,Bleach,Nirvana,1989
+462,463,80,Ocean Rain,Echo & The Bunnymen,1984
+463,464,77,Play,Moby,1999
+464,465,81,Berlin,Lou Reed,1973
+465,466,82,Stop Making Sense,Talking Heads,1984
+466,467,82,Green River,Creedence Clearwater Revival,1969
+467,468,77,"Hurry Up, We're Dreaming",M83,2011
+468,469,77,The Unforgettable Fire,U2,1984
+469,470,79,Dog Man Star,Suede,1994
+470,471,79,Antics,Interpol,2004
+471,472,80,The Colour Of Spring,Talk Talk,1986
+472,473,80,Bee Thousand,Guided By Voices,1994
+473,474,79,Relationship Of Command,At The Drive-In,2000
+474,475,80,The Who Sell Out,The Who,1967
+475,476,82,Talking Heads: 77,Talking Heads,1977
+476,477,80,Powerslave,Iron Maiden,1984
+477,478,79,"Sometimes I Sit And Think, And Sometimes I Just Sit",Courtney Barnett,2015
+478,479,82,Let Love In,Nick Cave & The Bad Seeds,1994
+479,480,75,The Life Of Pablo,Kanye West,2016
+480,481,79,"Hissing Fauna, Are You The Destroyer?",of Montreal,2007
+481,482,78,De-Loused In The Comatorium,The Mars Volta,2003
+482,483,81,Tim,The Replacements,1985
+483,484,82,Head Hunters,Herbie Hancock,1973
+484,485,82,Tonight's The Night,Neil Young,1975
+485,486,79,Straight Outta Compton,N.W.A,1988
+486,487,78,The Blueprint,Jay-Z,2001
+487,488,81,Tea For The Tillerman,Cat Stevens,1970
+488,489,80,Safe As Milk,Captain Beefheart & His Magic Band,1967
+489,490,81,Some Girls,The Rolling Stones,1978
+490,491,78,Up The Bracket,The Libertines,2002
+491,492,80,1999,Prince,1982
+492,493,80,Reckoning,R.E.M.,1984
+493,494,80,Tubular Bells,Mike Oldfield,1973
+494,495,79,Kaputt,Destroyer,2011
+495,496,77,Out Of Time,R.E.M.,1991
+496,497,79,Pretty Hate Machine,Nine Inch Nails,1989
+497,498,78,Out Of The Blue,Electric Light Orchestra,1977
+498,499,81,For Your Pleasure,Roxy Music,1973
+499,500,83,Giant Steps,John Coltrane,1960
