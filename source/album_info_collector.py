@@ -17,7 +17,7 @@ release_list = []
 album_score = []
 
 for i in range(51):
-    #Cargamos las diversas paginas web, una a una
+    #Cargamos las diversas paginas web, una a una, cada pagina contiene informacion sobre 10 albumes
     page = requests.get("https://www.besteveralbums.com/overall.php?o=&f=&fv=&orderby=-InfoRankScore&sortdir=asc&page=" + str(i))
     soup = BeautifulSoup(page.content, 'html.parser')
     
