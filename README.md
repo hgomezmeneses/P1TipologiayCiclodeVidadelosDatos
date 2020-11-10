@@ -1,4 +1,4 @@
-# Requisitos:
+# Requisitos
 
 Para poder ejecutar el script seran necesarias las siguientes librerías:
 - pip install pandas
