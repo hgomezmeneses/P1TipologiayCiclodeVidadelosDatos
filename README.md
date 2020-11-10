@@ -8,9 +8,14 @@ Para poder ejecutar el script seran necesarias las siguientes librerías:
 - pip install urllib3
 - pip install os
 
-# Scripts
+# Source
 
-La práctica consiste en dos scripts:
+La práctica consiste en dos scripts, que se encuentran en source:
+
+source/album_info_collector.py
+
+source/pictures_downloader.py
+
 El primer script recopila información de los mejores 500 álbumes de música según la página web bestalbumever.
 - Posición
 - Puntuación
@@ -20,15 +25,19 @@ El primer script recopila información de los mejores 500 álbumes de música se
 
 El segundo script descarga y almacena la imagen de la portada de cada álbum.
 
+# Practica
+
+Carpeta donde se encuentra la práctica respondiendo a las preguntas propuestas.
+
+# Csv and images
+
+Carpeta donde se encuentra el csv generado por el primer script y algunas de las imágenes descargadas por el segundo script, github no permitía más de 100 ficheros así que he subido alrededor de 70.
+
 # Miembros del equipo
 
 Esta práctica se ha realizado de manera individual por Hèctor Gómez Meneses.
 
-# Ficheros del código fuente
 
-source/album_info_collector.py
-
-source/pictures_downloader.py
 
 # Link a la publicación en Zenodo
 
