@@ -27,6 +27,7 @@ Esta práctica se ha realizado de manera individual por Hèctor Gómez Meneses.
 # Ficheros del código fuente
 
 source/album_info_collector.py
+
 soure/pictures_downloader.py
 
 # Link a la publicación en Zenodo
