@@ -31,7 +31,7 @@ Carpeta donde se encuentra la práctica respondiendo a las preguntas propuestas.
 
 # Csv and images
 
-Carpeta donde se encuentra el csv generado por el primer script y algunas de las imágenes descargadas por el segundo script, github no permitía más de 100 ficheros así que he subido alrededor de 70.
+Carpeta donde se encuentra el csv generado por el primer script y algunas de las imágenes descargadas por el segundo script, github no permitía más de 100 ficheros así que he subido las primeras 20.
 
 # Miembros del equipo
 
