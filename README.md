@@ -1,22 +1,27 @@
-# Albums Information Collector:
+# Práctica:
 
 Para poder ejecutar el script seran necesarias las siguientes librerías:
 - pip install pandas
 - pip install requests
 - pip install beautifulsoup4
 - pip install regex
-
-El script recopila información de los mejores 500 álbumes de música según la página web bestalbumever.
+- pip install urllib3
+- pip install os
+La práctica consiste en dos scripts:
+El primer script recopila información de los mejores 500 álbumes de música según la página web bestalbumever.
 - Posición
 - Puntuación
 - Nombre del álbum
 - Nombre de la banda
 - Año de grabación
 
+El segundo script recopila la imagen de la portada de cada álbum.
+
 # Miembros del equipo
 
 Esta práctica se ha realizado de manera individual por Hèctor Gómez Meneses.
 
-# Ficheros del código fuentee
+# Ficheros del código fuente
 
-main/album_scraper.py
+source/album_info_collector.py
+soure/pictures_downloader.py
