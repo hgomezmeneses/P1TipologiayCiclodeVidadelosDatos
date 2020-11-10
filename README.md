@@ -1,4 +1,4 @@
-# Práctica:
+# Requisitos:
 
 Para poder ejecutar el script seran necesarias las siguientes librerías:
 - pip install pandas
@@ -7,6 +7,9 @@ Para poder ejecutar el script seran necesarias las siguientes librerías:
 - pip install regex
 - pip install urllib3
 - pip install os
+
+# Scripts
+
 La práctica consiste en dos scripts:
 El primer script recopila información de los mejores 500 álbumes de música según la página web bestalbumever.
 - Posición
