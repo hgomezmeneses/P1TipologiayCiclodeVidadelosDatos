@@ -25,7 +25,7 @@ El primer script recopila información de los mejores 500 álbumes de música se
 
 El segundo script descarga y almacena la imagen de la portada de cada álbum.
 
-# Practica
+# Prácticapdf
 
 Carpeta donde se encuentra la práctica respondiendo a las preguntas propuestas.
 
